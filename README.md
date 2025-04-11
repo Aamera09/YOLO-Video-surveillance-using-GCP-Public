@@ -14,3 +14,6 @@ Workflow - steps
 10. Finally deploy to GKE - deploy-to-GKE.txt
 11. After run, save the results to Cloud storage using GCP dashboard.
 12. Example : Input source : vid2.mp4, Output files: car, car-person-frame, gcp_pucket.png, google_cloud_shell_sdk.png, person-car .
+
+
+# In Collaboration with Prakash Maddula and Rahul Solanki
